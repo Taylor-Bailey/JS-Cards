@@ -1,0 +1,25 @@
+#birthday, #job, #christmas, #grown {
+    padding: 10em 2em;
+    font-size: 24px;
+    color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    margin: 1em 20em;
+    box-shadow: 5px 5px 20px rgba(52, 52, 52, 0.7)
+}
+
+#birthday {
+    background-color: dodgerblue;
+}
+
+#job {
+    background-color: darkslategrey;
+}
+
+#christmas {
+    background-color: tomato;
+}
+
+#grown {
+    background-color: palevioletred;
+}
